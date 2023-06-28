@@ -1,6 +1,6 @@
 # Este projeto demonstra a utilização do modelo DDD. 
 É necessário a instalação dos sistemas Visual studio, o framework ASP.NET 5, Entity framework e SQL SERVER.
-
+\n
 Abaixo está uma imagem demonstrando as camadas utilizadas para o DDD. 
 1 - Presentation - A camada de apresentação, também conhecida como UI (User Interface), é responsável por fornecer a interface com o usuário final. 
 2 - Application - A camada recebe os comandos e consultas da camada de apresentação e coordena as operações necessárias no domínio, utilizando os serviços e repositórios disponíveis.
