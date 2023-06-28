@@ -1,4 +1,4 @@
-# Este projeto demonstra a utilização do modelo DDD. <br />
+# Este projeto demonstra a utilização do modelo DDD em camadas. <br />
 É necessário a instalação dos sistemas Visual studio, o framework ASP.NET 5, Entity framework e SQL SERVER.<br />
 <br />
 Abaixo está uma imagem demonstrando as camadas utilizadas para o DDD. <br />
